@@ -1,0 +1,10 @@
+langchain==0.0.200
+deeplake==3.6.3
+tiktoken==0.4.0
+openai==0.27.8.
+chromadb>=0.3.26
+python-dotenv==1.0.0
+google-search-results==2.1.0
+streamlit==1.1.*
+jsonschema==3.0.2
+
